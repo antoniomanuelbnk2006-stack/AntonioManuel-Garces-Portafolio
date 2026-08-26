@@ -110,15 +110,6 @@ App Android que muestra la posición de cuerpos celestes en tiempo real, con alm
 
 ---
 
-## Estadísticas
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AntonioManuel2006&show_icons=true&hide_border=true&bg_color=050508&title_color=00ffe0&text_color=f0f0f8&icon_color=00ffe0" alt="Estadísticas de GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioManuel2006&layout=compact&hide_border=true&bg_color=050508&title_color=00ffe0&text_color=f0f0f8" alt="Lenguajes más usados">
-</p>
-
----
-
 ## Contacto
 
 Abierto a oportunidades como desarrollador en el área de Sevilla.
