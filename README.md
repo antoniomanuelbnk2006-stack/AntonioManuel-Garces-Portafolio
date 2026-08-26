@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/antonio-manuel-garc%C3%A9s-luna-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/AntonioManuel2006">
+  <a href="https://github.com/antoniomanuelbnk2006-stack">
     <img src="https://img.shields.io/badge/GitHub-12121c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
