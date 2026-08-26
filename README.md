@@ -21,7 +21,7 @@
 
 ## Sobre mí
 
-Desarrollador de aplicaciones multiplataforma centrado en **Android nativo (Kotlin)** y **desarrollo web frontend**. Actualmente curso el CFGS de Desarrollo de Aplicaciones Multiplataforma en el IES Majuelo (Gines) y busco mi primera oportunidad profesional en el sector.
+Desarrollador de aplicaciones multiplataforma centrado en **Android nativo (Kotlin)** y **desarrollo web frontend**. Terminé el CFGS de Desarrollo de Aplicaciones Multiplataforma en el IES Majuelo (Gines) y busco mi primera oportunidad profesional en el sector.
 
 Mi experiencia combina el desarrollo de interfaces web y aplicaciones móviles con la integración de APIs REST y backends en .NET 8, trabajando con Git, metodologías ágiles y despliegue en entornos de producción reales.
 
