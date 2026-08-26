@@ -124,5 +124,5 @@ App Android que muestra la posición de cuerpos celestes en tiempo real, con alm
 Abierto a oportunidades como desarrollador en el área de Sevilla.
 
 - **Email:** antoniomanuelbnk2006@protonmail.com
-- **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/antonio-manuel-garc%C3%A9s-luna-/)
+- **LinkedIn:** [linkedin.com/in/antonio-manuel-garces-luna](https://www.linkedin.com/in/antonio-manuel-garc%C3%A9s-luna-/)
 - **GitHub:** [@AntonioManuel2006](https://github.com/AntonioManuel2006)
