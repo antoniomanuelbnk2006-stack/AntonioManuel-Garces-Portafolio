@@ -9,7 +9,7 @@
   <a href="mailto:antoniomanuelbnk2006@protonmail.com">
     <img src="https://img.shields.io/badge/Email-00ffe0?style=for-the-badge&logo=protonmail&logoColor=050508" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO">
+  <a href="https://www.linkedin.com/in/antonio-manuel-garc%C3%A9s-luna-/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/AntonioManuel2006">
@@ -124,5 +124,5 @@ App Android que muestra la posición de cuerpos celestes en tiempo real, con alm
 Abierto a oportunidades como desarrollador en el área de Sevilla.
 
 - **Email:** antoniomanuelbnk2006@protonmail.com
-- **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/TU-USUARIO)
+- **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/antonio-manuel-garc%C3%A9s-luna-/)
 - **GitHub:** [@AntonioManuel2006](https://github.com/AntonioManuel2006)
